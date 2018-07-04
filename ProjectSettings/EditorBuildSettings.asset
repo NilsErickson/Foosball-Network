@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TestScene.unity
     guid: 33ddc1d4ba8a159418fac1e1304a68fa
+  - enabled: 1
+    path: Assets/Scenes/Bumper Ball Test.unity
+    guid: 90f712dd78202bc4db73d5d9ab04c2d9
   m_configObjects: {}
